@@ -31,7 +31,7 @@ I keep payment infrastructure running, lead bank and card-scheme integration pro
 | Project | What it is | Status |
 |---|---|---|
 | [**AlertWatch**](https://play.google.com/store/apps/details?id=com.alertwatch.monitor) | Android app that monitors incoming SMS and email notifications and alerts you to the ones that matter | ✅ Live on Google Play |
-| **Recalled** | My next Android app | 🧪 In closed testing — coming soon |
+| **Recalled** | Android app that saves chat notifications privately on your phone, so you can still read messages the sender deleted | 🧪 In closed testing — coming soon |
 | **Automation tools** | Scripts, bots and small tools for workflow automation, monitoring and reporting | 🔧 Ongoing |
 | [**Personal-Site**](https://github.com/lahiruvidu111/Personal-Site) | My early personal website | 📦 Archive |
 | [**Game-Lab**](https://github.com/lahiruvidu111/Game-Lab) | Small game experiments | 📦 Archive |
